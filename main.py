@@ -16,7 +16,7 @@ session_name = 'session_name'
 # ✅ Source dan target channel
 source_channel_id = 2579755803
 target_channel_link = "https://t.me/+rJSz3wX9yXsxNjZh"
-start_message = 1
+start_message = 150
 end_message = 9155
 
 # ✅ Ukuran maksimal video (600MB)
