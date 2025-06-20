@@ -15,7 +15,7 @@ session_name = 'session_name'
 
 # ✅ Source dan target channel
 source_channel_id = 2579755803
-target_channel_link = "https://t.me/+rJSz3wX9yXsxNjZh"
+target_channel_link = "https://t.me/+BrstCkrJc3xlZGVh"
 start_message = 1326
 end_message = 9155
 
